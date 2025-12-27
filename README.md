@@ -24,7 +24,7 @@ Questo progetto dimostra competenze avanzate in:
 ## 🎯 Caratteristiche Principali
 
 ### Visualizzazioni Dinamiche
-- **Treemap Geografica**: Top 10 paesi per performance con codifica a colori per variazione YTD vs PYTD
+- **Treemap Geografica**: Ultimi 10 paesi per performance con codifica a colori per variazione YTD vs PYTD
 - **Waterfall Chart**: Analisi mensile dell'andamento con incrementi/decrementi per mese, paese e prodotto
 - **Stacked Bar Chart**: Breakdown mensile per tipologia prodotto (Indoor, Landscape, Outdoor)
 - **Scatter Plot**: Matrice di segmentazione che correla Profitto Lordo % con Valore YTD per identificare account strategici
