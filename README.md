@@ -42,9 +42,9 @@ Questo progetto dimostra competenze avanzate in:
 
 **Schema a Stella** con best practice:
 - **Tabelle Dimensioni** (prefisso `Dim_`):
-  - `Dim_Date` - Calendario 2022-2024
-  - `Dim_Products` - Anagrafica prodotti (deduplicate su Product_ID)
-  - `Dim_Countries` - Dimensione geografica
+  - `Dim_Account` - Informazioni sugli Account
+  - `Dim_Products` - Anagrafica prodotti
+  - `Dim_Date` - Tabella Date Creata
   
 - **Tabelle Fatti** (prefisso `Fact_`):
   - `Fact_Sales` - Transazioni di vendita
