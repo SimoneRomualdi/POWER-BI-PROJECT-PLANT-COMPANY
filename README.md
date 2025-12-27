@@ -2,7 +2,7 @@
 
 Dashboard interattiva Power BI per l'analisi delle performance di vendita di una plant company, con confronto temporale Year-To-Date (YTD) vs Previous Year-To-Date (PYTD) dal 2022 al 2024.
 
-![Dashboard Preview](screenshot_2023.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## 📊 Overview del Progetto
 
